@@ -56,13 +56,11 @@
     </td>
     <td width="40%" valign="center" align="center">
       <img src="https://media.giphy.com/media/xUOxfjsdBOxAtjmVvK/giphy.gif" alt="Marketing GIF" width="100%" style="border-radius: 10px;" />
+      <br/><br/>
+      <img src="./assets/stats-cards-vertical.svg" alt="Highlight stats" width="100%"/>
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="./assets/stats-cards.svg" alt="Highlight stats" width="90%"/>
-</div>
 
 <br/>
 
