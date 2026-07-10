@@ -60,6 +60,16 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="./assets/stats-cards.svg" alt="Highlight stats" width="90%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ihsanazainab&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile views"/>
+</div>
+
 <br/>
 
 <h3 align="center">🛠️ Marketing Toolkit</h3>
