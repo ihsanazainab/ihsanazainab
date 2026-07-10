@@ -28,6 +28,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./assets/ticker.svg" alt="Scrolling skills ticker" width="100%"/>
+</div>
+
+<br/>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="60%" valign="center">
@@ -77,16 +83,7 @@
 
 <h3 align="center">📊 Skill Proficiency</h3>
 <div align="center">
-
-Social Media Marketing `████████████████████░ 95%`
-Performance Marketing `██████████████████░░ 90%`
-WhatsApp Marketing `█████████████████░░░ 88%`
-Content Marketing `█████████████████░░░ 88%`
-Email Marketing `█████████░░░░░░░░ 85%`
-Keyword Research & SEO `█████████████████░░░ 85%`
-Shopify Websites `████████████████░░░░ 82%`
-Affiliate Marketing `████████████████░░░░ 80%`
-
+  <img src="./assets/skills-progress.svg" alt="Animated skill proficiency bars" width="80%"/>
 </div>
 
 <br/>
@@ -132,6 +129,19 @@ Affiliate Marketing `████████████████░░░�
     </td>
   </tr>
 </table>
+<br/>
+
+<h3 align="center">📅 Activity</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ihsanazainab&theme=react-dark&bg_color=020617&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ihsanazainab/ihsanazainab/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+</div>
+
 <br/>
 
 <div align="center">
