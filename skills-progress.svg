@@ -1,0 +1,74 @@
+<svg width="100%" height="330" viewBox="0 0 700 330" xmlns="http://www.w3.org/2000/svg" font-family="Fira Code, monospace">
+  <defs>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Row template: label, track, animated fill, % text -->
+
+  <!-- Social Media Marketing 95% -->
+  <text x="0" y="16" font-size="15" fill="#e5e7eb">Social Media Marketing</text>
+  <rect x="0" y="24" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="24" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="665" dur="1.4s" fill="freeze" begin="0.1s"/>
+  </rect>
+  <text x="700" y="35" font-size="12" fill="#10b981" text-anchor="end">95%</text>
+
+  <!-- Performance Marketing 90% -->
+  <text x="0" y="56" font-size="15" fill="#e5e7eb">Performance Marketing</text>
+  <rect x="0" y="64" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="64" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="630" dur="1.4s" fill="freeze" begin="0.2s"/>
+  </rect>
+  <text x="700" y="75" font-size="12" fill="#10b981" text-anchor="end">90%</text>
+
+  <!-- WhatsApp Marketing 88% -->
+  <text x="0" y="96" font-size="15" fill="#e5e7eb">WhatsApp Marketing</text>
+  <rect x="0" y="104" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="104" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="616" dur="1.4s" fill="freeze" begin="0.3s"/>
+  </rect>
+  <text x="700" y="115" font-size="12" fill="#10b981" text-anchor="end">88%</text>
+
+  <!-- Content Marketing 88% -->
+  <text x="0" y="136" font-size="15" fill="#e5e7eb">Content Marketing</text>
+  <rect x="0" y="144" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="144" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="616" dur="1.4s" fill="freeze" begin="0.4s"/>
+  </rect>
+  <text x="700" y="155" font-size="12" fill="#10b981" text-anchor="end">88%</text>
+
+  <!-- Email Marketing 85% -->
+  <text x="0" y="176" font-size="15" fill="#e5e7eb">Email Marketing</text>
+  <rect x="0" y="184" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="184" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="595" dur="1.4s" fill="freeze" begin="0.5s"/>
+  </rect>
+  <text x="700" y="195" font-size="12" fill="#10b981" text-anchor="end">85%</text>
+
+  <!-- Keyword Research & SEO 85% -->
+  <text x="0" y="216" font-size="15" fill="#e5e7eb">Keyword Research &amp; SEO</text>
+  <rect x="0" y="224" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="224" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="595" dur="1.4s" fill="freeze" begin="0.6s"/>
+  </rect>
+  <text x="700" y="235" font-size="12" fill="#10b981" text-anchor="end">85%</text>
+
+  <!-- Shopify Websites 82% -->
+  <text x="0" y="256" font-size="15" fill="#e5e7eb">Shopify Websites</text>
+  <rect x="0" y="264" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="264" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="574" dur="1.4s" fill="freeze" begin="0.7s"/>
+  </rect>
+  <text x="700" y="275" font-size="12" fill="#10b981" text-anchor="end">82%</text>
+
+  <!-- Affiliate Marketing 80% -->
+  <text x="0" y="296" font-size="15" fill="#e5e7eb">Affiliate Marketing</text>
+  <rect x="0" y="304" width="700" height="14" rx="7" fill="#0f172a"/>
+  <rect x="0" y="304" height="14" rx="7" fill="url(#barFill)">
+    <animate attributeName="width" from="0" to="560" dur="1.4s" fill="freeze" begin="0.8s"/>
+  </rect>
+  <text x="700" y="315" font-size="12" fill="#10b981" text-anchor="end">80%</text>
+</svg>
